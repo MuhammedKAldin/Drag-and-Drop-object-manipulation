@@ -15,6 +15,7 @@ Scene Overview :
 - once the Object is Spawned you are able to Make Changes to the Position, Rotation, Scale 
 of the 3D Object Through:
   <pre>
+  Keyboard Controls :
     1 => Disabling all visuals.
     2 => Position
     3 => Rotation
