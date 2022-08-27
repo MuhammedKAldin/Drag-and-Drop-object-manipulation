@@ -7,7 +7,8 @@ Summary :
 Time : 5h
 
 Build instructions :
-- Post Processing v2.
+- Open Package Manager
+- Install Post Processing v2.
 - Load up the project with Ease
 
 Scene Overview :
