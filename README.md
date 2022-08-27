@@ -10,7 +10,7 @@ Build instructions :
 - Load up the project with Ease
 
 Scene Overview :
-- a Free-cam , you are able to go Up/Down E/Q While Traverseing with your Mouse Look
+- a Free-cam , you are able to go Up/Down E/Q While Traverseing with your Mouse Look (Hold L-Mouse While Mouse Looking)
 - Drag and Drop features
 - once the Object is Spawned you are able to Make Changes to the Position, Rotation, Scale 
 of the 3D Object Through:
