@@ -6,7 +6,7 @@ Summary :
 
 Build instructions :
 - Open Package Manager
-- Install Post Processing v2.
+- Make sure Post Processing v2 is Installed.
 - Load up the project with Ease
 
 Scene Overview :
