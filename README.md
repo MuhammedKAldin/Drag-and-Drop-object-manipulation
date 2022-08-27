@@ -16,8 +16,8 @@ Scene Overview :
 of the 3D Object Through:
   <pre>
   Keyboard Controls :
-    1 => Disabling all visuals.
-    2 => Position
-    3 => Rotation
-    4 => Scale
+   Press 1 => Disabling all visuals.
+   Press 2 => Position
+   Press 3 => Rotation
+   Press 4 => Scale
   </pre>
