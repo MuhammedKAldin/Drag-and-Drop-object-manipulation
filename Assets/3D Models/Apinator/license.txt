@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apinator
+* source:	https://sketchfab.com/3d-models/apinator-8666b32fd1c14ee9849a90fc0749cba2
+* author:	pavlovich (https://sketchfab.com/pavlovich)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apinator" (https://sketchfab.com/3d-models/apinator-8666b32fd1c14ee9849a90fc0749cba2) by pavlovich (https://sketchfab.com/pavlovich) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
