@@ -26,4 +26,4 @@ of the 3D Object Through:
   </pre>
 
 End Result :
-  <img src='endResult.png' />
+  </br><img src='endResult.png' />
