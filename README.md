@@ -24,3 +24,6 @@ of the 3D Object Through:
    Press 3 => Rotation
    Press 4 => Scale
   </pre>
+
+End Result :
+  <img src='endResult.png' />
