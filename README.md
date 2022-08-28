@@ -25,5 +25,5 @@ of the 3D Object Through:
    Press 4 => Scale
   </pre>
 
-End Result :
+Preview :
   </br><img src='endResult.png' />
